@@ -1,4 +1,4 @@
-package com.frankmoley.services.room;
+package com.tribute.services.room;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

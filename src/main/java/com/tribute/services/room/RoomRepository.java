@@ -1,4 +1,4 @@
-package com.frankmoley.services.room;
+package com.tribute.services.room;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;

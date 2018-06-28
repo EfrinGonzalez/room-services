@@ -1,0 +1,4 @@
+com\tribute\services\room\RoomServicesApplication.class
+com\tribute\services\room\Room.class
+com\tribute\services\room\RoomController.class
+com\tribute\services\room\RoomRepository.class
